@@ -1,0 +1,7 @@
+title: AtomicTrxn App Policies
+description: Privacy, support, and data-management information for AtomicTrxn apps
+url: https://atomictrxn.github.io
+baseurl: /app-policies
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
