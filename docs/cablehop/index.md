@@ -1,19 +1,18 @@
 ---
 layout: default
-title: AtomicTrxn App Policies
-permalink: /
+title: CableHop
+permalink: /cablehop/
+redirect_from:
+  - /macmtp/
 ---
 
-# AtomicTrxn App Policies
-
-Privacy, support, and data-management information for apps published by
-AtomicTrxn.
-
-## CableHop
+# CableHop
 
 CableHop is a macOS utility for browsing an Android device over USB using the
 Media Transfer Protocol (MTP) and downloading selected files or folders.
 
 - [Privacy policy]({{ site.baseurl }}/cablehop/privacy/)
-- [Support]({{ site.baseurl }}/cablehop/support/)
+- [Support and troubleshooting]({{ site.baseurl }}/cablehop/support/)
 - [Delete local app data]({{ site.baseurl }}/cablehop/data-deletion/)
+
+[All app policies]({{ site.baseurl }}/)

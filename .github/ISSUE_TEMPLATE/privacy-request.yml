@@ -1,17 +1,17 @@
-name: MacMTP privacy request
+name: CableHop privacy request
 description: Ask a privacy or local-data question without posting sensitive details
-title: "[MacMTP privacy] "
+title: "[CableHop privacy] "
 body:
   - type: markdown
     attributes:
       value: |
-        MacMTP has no accounts and does not transmit app data to the developer. GitHub issues are public, so do not include personal or sensitive information. If private details are needed, ask for a private contact method.
+        CableHop has no accounts and does not transmit app data to the developer. GitHub issues are public, so do not include personal or sensitive information. If private details are needed, ask for a private contact method.
   - type: dropdown
     id: request-type
     attributes:
       label: Request type
       options:
-        - Help removing local MacMTP data
+        - Help removing local CableHop data
         - Help with information posted to this issue tracker
         - Privacy-policy question
         - Other privacy question

@@ -1,15 +1,15 @@
-name: MacMTP support request
-description: Report a MacMTP problem or ask for help
-title: "[MacMTP] "
+name: CableHop support request
+description: Report a CableHop problem or ask for help
+title: "[CableHop] "
 body:
   - type: markdown
     attributes:
       value: |
         GitHub issues are public. Do not include file contents, credentials, device serial numbers, private local paths, or other sensitive information.
   - type: input
-    id: macmtp-version
+    id: cablehop-version
     attributes:
-      label: MacMTP version
+      label: CableHop version
       placeholder: e.g. 1.0.0
     validations:
       required: true

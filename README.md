@@ -5,8 +5,8 @@ by AtomicTrxn.
 
 The website is published with GitHub Pages from the [`docs`](docs) directory.
 
-## MacMTP
+## CableHop
 
-- [Privacy policy](https://atomictrxn.github.io/app-policies/macmtp/privacy/)
-- [Support](https://atomictrxn.github.io/app-policies/macmtp/support/)
-- [Delete local app data](https://atomictrxn.github.io/app-policies/macmtp/data-deletion/)
+- [Privacy policy](https://atomictrxn.github.io/app-policies/cablehop/privacy/)
+- [Support](https://atomictrxn.github.io/app-policies/cablehop/support/)
+- [Delete local app data](https://atomictrxn.github.io/app-policies/cablehop/data-deletion/)

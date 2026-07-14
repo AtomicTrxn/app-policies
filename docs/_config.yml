@@ -5,3 +5,4 @@ baseurl: /app-policies
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
